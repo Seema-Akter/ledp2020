@@ -1,0 +1,546 @@
+/* h3{ */
+	/* color: white; */
+	/* background: green; */
+	/* font-size: 50px; */
+	/* text-decoration: underline; */
+	/* font-style: italic; */
+	/* text-align: right; */
+/* } */
+/* u{ */
+	/* color: #fff; */
+	/* background: navy; */
+	/* font-size: 50px; */
+	/* text-align: center; */
+	/* display: block; */
+	/* width: 500px; */
+	/* margin: 0 auto; */
+/* } */
+/* h2.hero{ */
+	/* width: 400px; */
+	/* height:200px; */
+	/* background: yellow */
+/* } */
+/* h2.villan{ */
+	/* width: 400px; */
+	/* height:200px; */
+	/* background: black; */
+	/* color: white; */
+/* } */
+/* .cumilla h2{ */
+	/* background: green; */
+	/* color: red; */
+/* } */
+/* .moinamoti h2{ */
+	/* background: red; */
+	/* color: green; */
+/* } */
+/* .box{ */
+	/* background: red; */
+	/* width: 300px; */
+	/* height: 300px; */
+	/* margin: 0 auto; */
+/* } */
+/* .samsu{ */
+	/* width: 500px; */
+	/* height: 300px; */
+	/* border: 10px solid green; */
+	/* background: linear-gradient(to left bottom, green, brown, navy, yellow); */
+/* } */
+/* .kopa-samsu{ */
+	/* width: 500px; */
+	/* height: 300px; */
+	/* border: 10px solid green;  */
+	/* background: radial-gradient( green, brown, navy, yellow); */
+/* } */
+/* .britto{ */
+	/* background: red; */
+	/* height: 300px; */
+	/* width: 300px; */
+	/* border-radius: 50%; */
+	/* margin: 0 auto; */
+/* } */
+/* .flag .sobuj{ */
+	/* background: green; */
+	/* width: 900px; */
+	/* height: 500px; */
+	/* margin: 50px auto; */
+	/* overflow: hidden; */
+	/* position: relative; */
+	
+/* } */
+/* .flag .sobuj .lal{ */
+	/* background: red; */
+	/* width: 300px; */
+	/* height: 300px; */
+	/* border-radius: 50%; */
+	/* position: absolute; */
+	/* top: 0; */
+	/* right: 0; */
+	/* left: 0; */
+	/* bottom: 0; */
+	/* margin: auto; */
+/* } */
+/* .lal img{ */
+	/* width: 60%; */
+	/* display: block; */
+	/* position: absolute; */
+	/* top: 0; */
+	/* right: 0; */
+	/* left: 0; */
+	/* bottom: 0; */
+	/* margin: auto; */
+/* } */
+
+/* h2{ */
+	/* background: red; */
+	/* font-size: 50px; */
+	/* padding: 10px; */
+	/* display: inline-block; */
+	/* box-shadow: 10px 10px 10px green; */
+	/* text-shadow: 10px 10px 7px green; */
+	
+/* } */
+/* p{ */
+	/* background: yellow; */
+	/* width: 500px; */
+	/* margin: auto; */
+	/* font-size: 20px; */
+	/* padding: 20px; */
+	/* text-align: justify; */
+	/* word-spacing: 2px; */
+	/* line-height: 25px; */
+	/* letter-spacing: 2px; */
+	/* font-family: aharoni; */
+/* } */
+
+
+/* body{ */
+	/* margin: 0; */
+	/* padding: 0; */
+/* } */
+/* .header-area{ */
+	/* height: 250px; */
+	/* background: #FF7F27; */
+	/* width: 1349px; */
+/* } */
+/* .left-area{ */
+	/* background: #ED1C24; */
+	/* height: 250px; */
+	/* width: 300px; */
+	/* float: left; */
+/* } */
+/* .center-area{ */
+	/* background: #A349A4; */
+	/* height: 250px; */
+	/* width: 749PX; */
+	/* float: left; */
+/* } */
+/* .right-area{ */
+	/* background: #00A2E8; */
+	/* height: 250px; */
+	/* width: 300px; */
+	/* float: left; */
+/* } */
+/* .footer-area{ */
+	/* height: 250px; */
+	/* background: #22B14C; */
+	/* width: 1349px; */
+/* } */
+/* .total:after{ */
+	/* content: ""; */
+	/* display: block; */
+	/* clear: both; */
+/* } */
+/* .total{ */
+	/* width: 1349px; */
+/* } */
+
+ 
+ 
+ 
+/* .header-area{ */
+	/* height: 250px; */
+	/* background: #3498db; */
+/* } */
+/* .left-area{ */
+	/* height: 250px; */
+	/* width: 25%; */
+	/* background: #95a5a6; */
+	/* float: left; */
+/* } */
+/* .midle-area{ */
+	/* height: 250px; */
+	/* width: 50%; */
+	/* background: #c0392b; */
+	/* float: left; */
+/* } */
+/* .right-area{ */
+	/* height: 250px; */
+	/* width: 25%; */
+	/* background: #ecf0f1; */
+	/* float: left; */
+/* } */
+/* .total:after{ */
+	/* content: ""; */
+	/* display: block; */
+	/* clear: both; */
+/* } */
+/* .footer-area{ */
+	/* height: 250px; */
+	/* background: #2ecc71; */
+/* } */
+
+/* @media all and (max-width: 700px){ */
+	
+	/* .left-area{ */
+	/* width: 30%; */
+	/* } */
+	/* .midle-area{ */
+		/* width: 40%; */
+	/* } */
+	/* .right-area{ */
+		/* width: 30%; */
+	/* } */
+/* } */
+/* @media all and (max-width: 402px){ */
+	/* .left-area{ */
+	/* width: 100%; */
+	/* } */
+	/* .midle-area{ */
+		/* width: 100%; */
+	/* } */
+	/* .right-area{ */
+		/* width: 100%; */
+	/* } */
+/* } */
+
+
+
+
+/* body{ */
+	/* margin: 0; */
+	/* padding: 0; */
+/* } */
+/* .header-area{ */
+	/* background: #f1c40f; */
+/* } */
+/* .logo-area{ */
+	/* width: 150px; */
+	/* margin: auto; */
+/* } */
+/* .logo-area img{ */
+	/* width: 100%; */
+/* } */
+/* .midle-area .contant-area{ */
+	/* width: 75%; */
+	/* float: left; */
+	/* margin-right: 5%; */
+/* } */
+/* .midle-area aside{ */
+	/* width: 20%; */
+	/* float: left; */
+/* } */
+/* article h2, .side-bar h2{ */
+	/* color: green; */
+	/* font-family: tahoma; */
+/* } */
+/* article p, .side-bar p{ */
+	/* font-size: 19px; */
+	/* font-family: tahoma; */
+/* } */
+/* .midle-area{ */
+	/* width: 90%; */
+	/* margin: auto; */
+/* } */
+/* .midle-area:after{ */
+	/* content: ; */
+	/* display: block; */
+	/* clear: both; */
+/* } */
+/* footer p{ */
+	/* clear: both; */
+	/* font-size: 20px; */
+	/* font-family: aharoni; */
+	/* background: #34495e; */
+	/* text-align: center; */
+	/* padding: 20px; */
+	/* color: white; */
+/* } */
+
+
+
+/* body{ */
+	/* background-image: url(image/background.jpg); */
+	/* background-size: cover; */
+/* } */
+/* .amader-from{ */
+	/* width: 650px; */
+	/* background: white; */
+	/* margin: 100px auto; */
+	/* padding: 40px 20px; */
+	/* background: rgba(0, 0, 0, .4); */
+	/* border-radius: 5px; */
+/* } */
+/* .amader-from input{ */
+	/* display: block; */
+	/* width: 100%; */
+	/* font-size: 18px; */
+	/* padding: 5px; */
+	/* border: 1px solid yellow; */
+	/* background: transparent; */
+	/* color: #fff; */
+	/* border-radius: 5px; */
+/* } */
+/* .amader-from label{ */
+	/* color: #fff; */
+	/* cursor: pointer; */
+	/* padding: 5px 0; */
+	/* display: block; */
+	/* font-size: 20px; */
+	/* font-family: tahoma; */
+/* } */
+/* .amader-from input[type=submit]{ */
+	/* width: 200px; */
+	/* margin-top: 10px; */
+	/* cursor: pointer; */
+/* } */
+/* .amader-from p{ */
+	/* color: #fff; */
+	/* font-size: 17px; */
+	/* font-family: tahoma; */
+/* } */
+/* .amader-from p a{ */
+	/* color: yellow; */
+/* } */
+
+
+
+/* .box{ */
+	/* background: red; */
+	/* width: 300px; */
+	/* height: 300px; */
+	/* transition-duration: .5s; */
+/* } */
+/* .box:hover{ */
+	/* background: green; */
+	/* width: 500px; */
+	/* height: 500px; */
+/* } */
+
+
+
+/* .box{ */
+	/* width: 300px; */
+	/* height: 300px; */
+	/* background-image: url(image/light.jpg);  */
+	/* background-size: cover; */
+	/* margin: auto; */
+	/* position: relative; */
+/* } */
+/* .chuto-box{ */
+	/* width: 200px; */
+	/* height: 200px; */
+	/* border: 1px solid #fff; */
+	/* position: absolute; */
+	/* left: 0; */
+	/* right: 0; */
+	/* top: 0; */
+	/* bottom: 0; */
+	/* margin: auto; */
+	/* padding: 5px; */
+	/* transition-duration: .5s; */
+	/* text-align: center; */
+	/* opacity: 0; */
+/* } */
+/* .chuto-box h2, .chuto-box p{ */
+	/* color: #fff; */
+/* } */
+/* .box:hover .chuto-box{ */
+	/* opacity: 1; */
+/* } */
+
+
+
+/* .box{ */
+	/* width: 300px; */
+	/* height: 300px; */
+	/* background-image: url(image/psd.jpg); */
+	/* background-position: left top; */
+	/* transition-duration: .5s; */
+	/* float: left; */
+	/* border: 2px solid red; */
+	/* margin: 10px; */
+/* } */
+/* .box:hover{ */
+	/* background-position: left bottom; */
+/* } */
+
+
+/* .box{ */
+	/* background: red; */
+	/* width: 300px; */
+	/* height: 300px; */
+	/* animation: vaivai 3s infinite linear; */
+	/* position: absolute; */
+/* } */
+/* @keyframes vaivai{ */
+	/* 0%{ */
+		/* top: 0; */
+		/* left: 0; */
+		/* transform: rotatex(40deg) */
+	/* } */
+	/* 25%{ */
+		/* top: 100px; */
+		/* left: 0; */
+		/* transform: scale(1.5) rotatex(40deg); */
+		/* background: green; */
+	/* } */
+	/* 50%{ */
+		/* top: 50px; */
+		/* left: 500px; */
+		/* transform: scale(1.5) rotatey(40deg); */
+		/* background: yellow; */
+	/* } */
+	/* 75%{ */
+		/* top: 220px; */
+		/* left: 800px; */
+		/* transform: scale(2.5) rotate(140deg); */
+		/* background: brown; */
+	/* } */
+	/* 100%{ */
+		/* top: 500px; */
+		/* left: 0px; */
+	/* } */
+/* } */
+/* body{ */
+	/* margin: 0; */
+/* } */
+/* .triangle{ */
+	/* width: 0; */
+	/* height: 0; */
+	/* border-bottom: 200px solid green; */
+	/* border-left: 1360px solid transparent; */
+	/* border-right: 0px solid transparent; */
+/* } */
+/* .service-area{ */
+	/* background: green; */
+	/* height: 300px; */
+/* } */
+/* .service-area h2{ */
+	/* margin: 0; */
+	/* text-align: center; */
+	/* color: #fff; */
+	/* font-size: 30px; */
+	/* font-family: tahoma; */
+/* } */
+
+
+
+/* .box{ */
+	/* background-image: url(image/image.jpg); */
+	/* background-size: cover; */
+	/* width: 500px; */
+	/* height: 500px; */
+	/* margin: 150px auto; */
+	/* position: relative; */
+/* } */
+/* .box:before{ */
+	/* background: green; */
+	/* width: 250px; */
+	/* height: 500px; */
+	/* content: ""; */
+	/* display: block; */
+	/* position: absolute; */
+	/* top: 0; */
+	/* left: 0; */
+	/* transition-duration: 1s; */
+/* } */
+/* .box:after{ */
+	/* background: green; */
+	/* width: 250px; */
+	/* height: 500px; */
+	/* content: ""; */
+	/* display: block; */
+	/* clear: both; */
+	/* position: absolute; */
+	/* top: 0; */
+	/* right: 0; */
+	/* transition-duration: 1s; */
+/* } */
+/* .box:hover:before{ */
+	/* top: 0px; */
+	/* left: -250px; */
+	/* transform: rotatey(180deg); */
+	/* background: orange; */
+/* } */
+/* .box:hover:after{ */
+	/* top: 0px; */
+	/* right: -250px; */
+	/* transform: rotatey(180deg); */
+	/* background: orange; */
+/* } */
+
+
+/* body{ */
+	/* margin: 0; */
+	/* padding: 0; */
+	/* font-family: tahoma; */
+/* } */
+/* .main-manu{ */
+	/* background: #9b59b6; */
+/* } */
+/* .main-manu ul{ */
+	/* margin: 0; */
+	/* list-style: none; */
+	/* padding: 0; */
+/* } */
+/* .main-manu ul li{ */
+	/* float: left; */
+	/* position: relative; */
+/* } */
+/* .main-manu ul:after{ */
+	/* content: ''; */
+	/* display: block; */
+	/* clear: both; */
+/* } */
+/* .main-manu ul li a{ */
+	/* color: #fff; */
+	/* font-size: 20px; */
+	/* text-decoration: none; */
+	/* padding: 10px 20px; */
+	/* display: block; */
+/* } */
+/* .main-manu ul li a:hover{ */
+	/* background: #f1c40f; */
+/* } */
+
+
+
+/* .main-manu ul ul li{ */
+	/* float: none; */
+/* } */
+/* .main-manu ul ul{ */
+	/* position: absolute; */
+	/* background: #2ecc71; */
+	/* position: absolute; */
+	/* top: 100%; */
+	/* left: 0; */
+	/* width: 300px; */
+	/* display: none; */
+/* } */
+/* .main-manu ul li:hover> ul{ */
+	/* display: block; */
+/* } */
+/* .main-manu ul ul ul{ */
+	/* background: #e74c3c; */
+	/* position: absolute; */
+	/* left: 100%; */
+	/* top: 0; */
+/* } */
+/* .main-manu ul ul ul ul{ */
+	/* background: #e67e22; */
+	/* position: absolute; */
+	/* left: -100%; */
+	/* top: 0; */
+/* } */
+
